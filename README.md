@@ -1,6 +1,12 @@
-# Heart-Disease-Prediction-using-Machine-Learning
+# **Heart Disease Prediction Using Machine Learning**  
 
-A project to predict heart disease using the Heart Disease Dataset. Includes data preprocessing, EDA, feature selection, and model training (Logistic Regression, Random Forest, SVM) with a Streamlit app for deployment. Random Forest achieved perfect precision. Contains Jupyter Notebook, Streamlit app code, saved model (`disease_model.pkl`), and project report (.pdf).
+This project focuses on predicting heart disease using the **Heart Disease Dataset**. It involves **data preprocessing, exploratory data analysis (EDA), feature selection, and model training** with multiple machine learning algorithms, including **Logistic Regression, Random Forest, and Support Vector Machine (SVM)**.  
 
-- Run the notebook: `Heart_Disease_Assignment.ipynb`
-- Launch the app: `streamlit run app.py`
+The **Random Forest model achieved perfect precision**, making it the most reliable for prediction. The project also includes a **Streamlit web application** for real-time disease prediction, allowing users to input their health parameters and receive instant results.  
+
+### **Project Contents**  
+- **Jupyter Notebook** (`Heart_Disease_Assignment.ipynb`) – Contains the full implementation, from data preprocessing to model evaluation.  
+- **Streamlit App** (`app.py`) – A user-friendly interface for making predictions.  
+- **Saved Model** (`disease_model.pkl`) – The trained Random Forest model used in the application.  
+- **Project Report** (`.pdf`) – A detailed analysis of the methodology, findings, and model performance.  
+
